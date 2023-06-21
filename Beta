@@ -1,10 +1,11 @@
+
 wait(1)
 
 warn("---------------------------------------------------------------------------")
 warn("Welcome to Eye Panel! If you have problem, join our Discord! It's a beta rn")
 warn("---------------------------------------------------------------------------")
 
--- MADE BY VARP
+
 
 -- Gui to Lua
 -- Version: 3.2
@@ -136,7 +137,6 @@ ScrollingFrame.BorderColor3 = Color3.fromRGB(33, 33, 33)
 ScrollingFrame.BorderSizePixel = 0
 ScrollingFrame.Position = UDim2.new(0.00546830706, 0, 0.191229895, 0)
 ScrollingFrame.Size = UDim2.new(0, 246, 0, 211)
-ScrollingFrame.CanvasPosition = Vector2.new(0, 750)
 ScrollingFrame.CanvasSize = UDim2.new(0, 0, 60, 0)
 ScrollingFrame.ScrollBarThickness = 4
 
@@ -795,7 +795,7 @@ TextLabel.TextSize = 14.000
 
 -- Scripts:
 
-local function QZQZ_fake_script() -- TextBox.AutoText 
+local function KJYGD_fake_script() -- TextBox.AutoText 
 	local script = Instance.new('LocalScript', TextBox)
 
 	local TextBox = script.Parent
@@ -858,8 +858,8 @@ local function QZQZ_fake_script() -- TextBox.AutoText
 	end
 	
 end
-coroutine.wrap(QZQZ_fake_script)()
-local function AARVUTY_fake_script() -- Discord.LocalScript 
+coroutine.wrap(KJYGD_fake_script)()
+local function NVLRUW_fake_script() -- Discord.LocalScript 
 	local script = Instance.new('LocalScript', Discord)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -877,7 +877,7 @@ local function AARVUTY_fake_script() -- Discord.LocalScript
 	local function executeScript()
 		--Script
 	
-		setclipboard("https://dsc.gg/eyepanel")
+		setclipboard("https://discord.gg/VUWU47c8EA")
 	
 	
 		--script
@@ -885,8 +885,8 @@ local function AARVUTY_fake_script() -- Discord.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(AARVUTY_fake_script)()
-local function BIDWBA_fake_script() -- Discord_2.LocalScript 
+coroutine.wrap(NVLRUW_fake_script)()
+local function AOXSZ_fake_script() -- Discord_2.LocalScript 
 	local script = Instance.new('LocalScript', Discord_2)
 
 	local fps = 0
@@ -904,8 +904,8 @@ local function BIDWBA_fake_script() -- Discord_2.LocalScript
 	end
 	
 end
-coroutine.wrap(BIDWBA_fake_script)()
-local function PSGIO_fake_script() -- Discord_3.LocalScript 
+coroutine.wrap(AOXSZ_fake_script)()
+local function WPBN_fake_script() -- Discord_3.LocalScript 
 	local script = Instance.new('LocalScript', Discord_3)
 
 	local button = script.Parent
@@ -922,8 +922,8 @@ local function PSGIO_fake_script() -- Discord_3.LocalScript
 	
 	
 end
-coroutine.wrap(PSGIO_fake_script)()
-local function AYKJEI_fake_script() -- Discord_5.LocalScript 
+coroutine.wrap(WPBN_fake_script)()
+local function LDDZG_fake_script() -- Discord_5.LocalScript 
 	local script = Instance.new('LocalScript', Discord_5)
 
 	local TextButton = script.Parent
@@ -988,8 +988,8 @@ local function AYKJEI_fake_script() -- Discord_5.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(AYKJEI_fake_script)()
-local function ZKQBPDN_fake_script() -- Discord_6.LocalScript 
+coroutine.wrap(LDDZG_fake_script)()
+local function GSHTYYL_fake_script() -- Discord_6.LocalScript 
 	local script = Instance.new('LocalScript', Discord_6)
 
 	local TextButton = script.Parent
@@ -1065,8 +1065,8 @@ local function ZKQBPDN_fake_script() -- Discord_6.LocalScript
 	
 	
 end
-coroutine.wrap(ZKQBPDN_fake_script)()
-local function PQEPG_fake_script() -- Discord_7.LocalScript 
+coroutine.wrap(GSHTYYL_fake_script)()
+local function UQGNTUT_fake_script() -- Discord_7.LocalScript 
 	local script = Instance.new('LocalScript', Discord_7)
 
 	local TextButton = script.Parent
@@ -1157,8 +1157,8 @@ local function PQEPG_fake_script() -- Discord_7.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(PQEPG_fake_script)()
-local function ESLWC_fake_script() -- Discord_8.LocalScript 
+coroutine.wrap(UQGNTUT_fake_script)()
+local function RSLX_fake_script() -- Discord_8.LocalScript 
 	local script = Instance.new('LocalScript', Discord_8)
 
 	local TextButton = script.Parent
@@ -1241,8 +1241,8 @@ local function ESLWC_fake_script() -- Discord_8.LocalScript
 	
 	
 end
-coroutine.wrap(ESLWC_fake_script)()
-local function OYFIHBM_fake_script() -- Discord_9.LocalScript 
+coroutine.wrap(RSLX_fake_script)()
+local function ZSDFRM_fake_script() -- Discord_9.LocalScript 
 	local script = Instance.new('LocalScript', Discord_9)
 
 	local TextButton = script.Parent
@@ -1331,8 +1331,8 @@ local function OYFIHBM_fake_script() -- Discord_9.LocalScript
 	
 	
 end
-coroutine.wrap(OYFIHBM_fake_script)()
-local function MHFKPYW_fake_script() -- Discord_10.LocalScript 
+coroutine.wrap(ZSDFRM_fake_script)()
+local function XRBPUJS_fake_script() -- Discord_10.LocalScript 
 	local script = Instance.new('LocalScript', Discord_10)
 
 	local TextButton = script.Parent
@@ -1442,8 +1442,8 @@ local function MHFKPYW_fake_script() -- Discord_10.LocalScript
 	
 	
 end
-coroutine.wrap(MHFKPYW_fake_script)()
-local function CGXO_fake_script() -- Discord_11.LocalScript 
+coroutine.wrap(XRBPUJS_fake_script)()
+local function NJQNRL_fake_script() -- Discord_11.LocalScript 
 	local script = Instance.new('LocalScript', Discord_11)
 
 	local TextButton = script.Parent
@@ -1528,8 +1528,8 @@ local function CGXO_fake_script() -- Discord_11.LocalScript
 	
 	
 end
-coroutine.wrap(CGXO_fake_script)()
-local function OKXA_fake_script() -- Discord_12.LocalScript 
+coroutine.wrap(NJQNRL_fake_script)()
+local function KMMLUU_fake_script() -- Discord_12.LocalScript 
 	local script = Instance.new('LocalScript', Discord_12)
 
 	local TextButton = script.Parent
@@ -1614,8 +1614,8 @@ local function OKXA_fake_script() -- Discord_12.LocalScript
 	
 	
 end
-coroutine.wrap(OKXA_fake_script)()
-local function ODPVGH_fake_script() -- Discord_13.LocalScript 
+coroutine.wrap(KMMLUU_fake_script)()
+local function DPSSR_fake_script() -- Discord_13.LocalScript 
 	local script = Instance.new('LocalScript', Discord_13)
 
 	local TextButton = script.Parent
@@ -1875,8 +1875,8 @@ local function ODPVGH_fake_script() -- Discord_13.LocalScript
 	
 	
 end
-coroutine.wrap(ODPVGH_fake_script)()
-local function JTAM_fake_script() -- Discord_14.LocalScript 
+coroutine.wrap(DPSSR_fake_script)()
+local function EAQZTX_fake_script() -- Discord_14.LocalScript 
 	local script = Instance.new('LocalScript', Discord_14)
 
 	
@@ -1918,8 +1918,8 @@ local function JTAM_fake_script() -- Discord_14.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(JTAM_fake_script)()
-local function TKYTCGF_fake_script() -- Discord_16.LocalScript 
+coroutine.wrap(EAQZTX_fake_script)()
+local function DWUACLK_fake_script() -- Discord_16.LocalScript 
 	local script = Instance.new('LocalScript', Discord_16)
 
 	local TextButton = script.Parent
@@ -1998,8 +1998,8 @@ local function TKYTCGF_fake_script() -- Discord_16.LocalScript
 	
 	
 end
-coroutine.wrap(TKYTCGF_fake_script)()
-local function ZQVJGYL_fake_script() -- Discord_17.LocalScript 
+coroutine.wrap(DWUACLK_fake_script)()
+local function GPQWS_fake_script() -- Discord_17.LocalScript 
 	local script = Instance.new('LocalScript', Discord_17)
 
 	local TextButton = script.Parent
@@ -2017,8 +2017,8 @@ local function ZQVJGYL_fake_script() -- Discord_17.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(ZQVJGYL_fake_script)()
-local function PNKHE_fake_script() -- Discord_18.LocalScript 
+coroutine.wrap(GPQWS_fake_script)()
+local function ZYRB_fake_script() -- Discord_18.LocalScript 
 	local script = Instance.new('LocalScript', Discord_18)
 
 	
@@ -2051,8 +2051,8 @@ local function PNKHE_fake_script() -- Discord_18.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(PNKHE_fake_script)()
-local function KFCLC_fake_script() -- Discord_19.LocalScript 
+coroutine.wrap(ZYRB_fake_script)()
+local function NWINZD_fake_script() -- Discord_19.LocalScript 
 	local script = Instance.new('LocalScript', Discord_19)
 
 	
@@ -2086,8 +2086,8 @@ local function KFCLC_fake_script() -- Discord_19.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(KFCLC_fake_script)()
-local function MTZLJ_fake_script() -- Discord_21.LocalScript 
+coroutine.wrap(NWINZD_fake_script)()
+local function XUZPIX_fake_script() -- Discord_21.LocalScript 
 	local script = Instance.new('LocalScript', Discord_21)
 
 	local TextButton = script.Parent
@@ -2222,8 +2222,8 @@ local function MTZLJ_fake_script() -- Discord_21.LocalScript
 	
 	
 end
-coroutine.wrap(MTZLJ_fake_script)()
-local function PUGF_fake_script() -- Discord_22.LocalScript 
+coroutine.wrap(XUZPIX_fake_script)()
+local function LGKM_fake_script() -- Discord_22.LocalScript 
 	local script = Instance.new('LocalScript', Discord_22)
 
 	local TextButton = script.Parent
@@ -2330,8 +2330,8 @@ local function PUGF_fake_script() -- Discord_22.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(PUGF_fake_script)()
-local function FKZX_fake_script() -- Discord_23.LocalScript 
+coroutine.wrap(LGKM_fake_script)()
+local function RBCE_fake_script() -- Discord_23.LocalScript 
 	local script = Instance.new('LocalScript', Discord_23)
 
 	local TextButton = script.Parent
@@ -2403,8 +2403,8 @@ local function FKZX_fake_script() -- Discord_23.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(FKZX_fake_script)()
-local function MVZK_fake_script() -- Discord_24.LocalScript 
+coroutine.wrap(RBCE_fake_script)()
+local function YZND_fake_script() -- Discord_24.LocalScript 
 	local script = Instance.new('LocalScript', Discord_24)
 
 	local TextButton = script.Parent
@@ -2533,8 +2533,8 @@ local function MVZK_fake_script() -- Discord_24.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(MVZK_fake_script)()
-local function RYKVQTJ_fake_script() -- TextBox_2.LocalScript 
+coroutine.wrap(YZND_fake_script)()
+local function IGHEUMA_fake_script() -- TextBox_2.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_2)
 
 	local colorTextBox = script.Parent -- Assumendo che lo script sia collegato direttamente alla TextBox del colore
@@ -2611,8 +2611,8 @@ local function RYKVQTJ_fake_script() -- TextBox_2.LocalScript
 	colorTextBox:GetPropertyChangedSignal("Text"):Connect(setColorFromTextBox)
 	
 end
-coroutine.wrap(RYKVQTJ_fake_script)()
-local function RNXUUO_fake_script() -- TextBox_3.LocalScript 
+coroutine.wrap(IGHEUMA_fake_script)()
+local function DRRYVB_fake_script() -- TextBox_3.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_3)
 
 	local player = game.Players.LocalPlayer
@@ -2647,8 +2647,8 @@ local function RNXUUO_fake_script() -- TextBox_3.LocalScript
 	
 	
 end
-coroutine.wrap(RNXUUO_fake_script)()
-local function XMODB_fake_script() -- Discord_25.LocalScript 
+coroutine.wrap(DRRYVB_fake_script)()
+local function EYDEQHY_fake_script() -- Discord_25.LocalScript 
 	local script = Instance.new('LocalScript', Discord_25)
 
 	local TextButton = script.Parent
@@ -2854,8 +2854,8 @@ local function XMODB_fake_script() -- Discord_25.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(XMODB_fake_script)()
-local function DTPQLU_fake_script() -- Discord_27.LocalScript 
+coroutine.wrap(EYDEQHY_fake_script)()
+local function KXHCXVD_fake_script() -- Discord_27.LocalScript 
 	local script = Instance.new('LocalScript', Discord_27)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2898,8 +2898,8 @@ local function DTPQLU_fake_script() -- Discord_27.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(DTPQLU_fake_script)()
-local function CMVA_fake_script() -- Discord_28.LocalScript 
+coroutine.wrap(KXHCXVD_fake_script)()
+local function AHHMNQZ_fake_script() -- Discord_28.LocalScript 
 	local script = Instance.new('LocalScript', Discord_28)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2928,8 +2928,8 @@ local function CMVA_fake_script() -- Discord_28.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(CMVA_fake_script)()
-local function CPZAXSI_fake_script() -- Discord_29.LocalScript 
+coroutine.wrap(AHHMNQZ_fake_script)()
+local function PHRXAML_fake_script() -- Discord_29.LocalScript 
 	local script = Instance.new('LocalScript', Discord_29)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2972,8 +2972,8 @@ local function CPZAXSI_fake_script() -- Discord_29.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(CPZAXSI_fake_script)()
-local function VRNFD_fake_script() -- Discord_30.LocalScript 
+coroutine.wrap(PHRXAML_fake_script)()
+local function UYZS_fake_script() -- Discord_30.LocalScript 
 	local script = Instance.new('LocalScript', Discord_30)
 
 	local TextButton = script.Parent
@@ -3068,8 +3068,8 @@ local function VRNFD_fake_script() -- Discord_30.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(VRNFD_fake_script)()
-local function BBGR_fake_script() -- Discord_31.LocalScript 
+coroutine.wrap(UYZS_fake_script)()
+local function MAWWCQN_fake_script() -- Discord_31.LocalScript 
 	local script = Instance.new('LocalScript', Discord_31)
 
 	local TextButton = script.Parent
@@ -3181,8 +3181,8 @@ local function BBGR_fake_script() -- Discord_31.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(BBGR_fake_script)()
-local function TATHCND_fake_script() -- Discord_32.LocalScript 
+coroutine.wrap(MAWWCQN_fake_script)()
+local function IQET_fake_script() -- Discord_32.LocalScript 
 	local script = Instance.new('LocalScript', Discord_32)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3216,8 +3216,8 @@ local function TATHCND_fake_script() -- Discord_32.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(TATHCND_fake_script)()
-local function GGJX_fake_script() -- Discord_34.LocalScript 
+coroutine.wrap(IQET_fake_script)()
+local function EUUSJZS_fake_script() -- Discord_34.LocalScript 
 	local script = Instance.new('LocalScript', Discord_34)
 
 	local TextButton = script.Parent
@@ -3332,8 +3332,8 @@ local function GGJX_fake_script() -- Discord_34.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(GGJX_fake_script)()
-local function HNGLNG_fake_script() -- Discord_36.LocalScript 
+coroutine.wrap(EUUSJZS_fake_script)()
+local function GGLWB_fake_script() -- Discord_36.LocalScript 
 	local script = Instance.new('LocalScript', Discord_36)
 
 	local TextButton = script.Parent 
@@ -3375,8 +3375,8 @@ local function HNGLNG_fake_script() -- Discord_36.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(HNGLNG_fake_script)()
-local function CNRF_fake_script() -- Discord_37.LocalScript 
+coroutine.wrap(GGLWB_fake_script)()
+local function SFZK_fake_script() -- Discord_37.LocalScript 
 	local script = Instance.new('LocalScript', Discord_37)
 
 	local TextButton = script.Parent 
@@ -3427,8 +3427,8 @@ local function CNRF_fake_script() -- Discord_37.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(CNRF_fake_script)()
-local function DWJHV_fake_script() -- Discord_38.LocalScript 
+coroutine.wrap(SFZK_fake_script)()
+local function HVMZTDE_fake_script() -- Discord_38.LocalScript 
 	local script = Instance.new('LocalScript', Discord_38)
 
 	local TextButton = script.Parent 
@@ -3479,8 +3479,8 @@ local function DWJHV_fake_script() -- Discord_38.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(DWJHV_fake_script)()
-local function BQBBBFE_fake_script() -- FlingPLR.LocalScript 
+coroutine.wrap(HVMZTDE_fake_script)()
+local function CQJX_fake_script() -- FlingPLR.LocalScript 
 	local script = Instance.new('LocalScript', FlingPLR)
 
 	
@@ -3508,8 +3508,8 @@ local function BQBBBFE_fake_script() -- FlingPLR.LocalScript
 	
 	
 end
-coroutine.wrap(BQBBBFE_fake_script)()
-local function DVZWDL_fake_script() -- FLing2.LocalScript 
+coroutine.wrap(CQJX_fake_script)()
+local function LKRNTTI_fake_script() -- FLing2.LocalScript 
 	local script = Instance.new('LocalScript', FLing2)
 
 	local TextButton = script.Parent
@@ -3620,8 +3620,8 @@ local function DVZWDL_fake_script() -- FLing2.LocalScript
 	
 	
 end
-coroutine.wrap(DVZWDL_fake_script)()
-local function QHDUB_fake_script() -- FLing2_2.LocalScript 
+coroutine.wrap(LKRNTTI_fake_script)()
+local function SCSMXMO_fake_script() -- FLing2_2.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_2)
 
 	local textBox = script.Parent.Parent:FindFirstChild("FlingPLR") -- Sostituisci "YourTextBox" con il nome effettivo della tua TextBox
@@ -3677,8 +3677,8 @@ local function QHDUB_fake_script() -- FLing2_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(QHDUB_fake_script)()
-local function PSKTTL_fake_script() -- FLing2_3.LocalScript 
+coroutine.wrap(SCSMXMO_fake_script)()
+local function LJMB_fake_script() -- FLing2_3.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_3)
 
 	local speaker = game.Players.LocalPlayer
@@ -3721,8 +3721,8 @@ local function PSKTTL_fake_script() -- FLing2_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(PSKTTL_fake_script)()
-local function GYMZ_fake_script() -- FLing2_5.LocalScript 
+coroutine.wrap(LJMB_fake_script)()
+local function HKPH_fake_script() -- FLing2_5.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_5)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3784,8 +3784,8 @@ local function GYMZ_fake_script() -- FLing2_5.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(GYMZ_fake_script)()
-local function AIZIIWA_fake_script() -- FLing2_6.LocalScript 
+coroutine.wrap(HKPH_fake_script)()
+local function IPDBQV_fake_script() -- FLing2_6.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_6)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3815,8 +3815,8 @@ local function AIZIIWA_fake_script() -- FLing2_6.LocalScript
 	
 	
 end
-coroutine.wrap(AIZIIWA_fake_script)()
-local function XAPSDGY_fake_script() -- FLing2_8.LocalScript 
+coroutine.wrap(IPDBQV_fake_script)()
+local function XPKGLUK_fake_script() -- FLing2_8.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_8)
 
 	
@@ -3873,8 +3873,8 @@ local function XAPSDGY_fake_script() -- FLing2_8.LocalScript
 	
 	
 end
-coroutine.wrap(XAPSDGY_fake_script)()
-local function UZZY_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(XPKGLUK_fake_script)()
+local function IQKZCX_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local Button = script.Parent
@@ -3890,8 +3890,8 @@ local function UZZY_fake_script() -- TextButton.LocalScript
 	Button.Activated:Connect(ToggleVisibility)
 	
 end
-coroutine.wrap(UZZY_fake_script)()
-local function QSKJ_fake_script() -- Frame.Dragify 
+coroutine.wrap(IQKZCX_fake_script)()
+local function EDBVO_fake_script() -- Frame.Dragify 
 	local script = Instance.new('LocalScript', Frame)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -3940,8 +3940,8 @@ local function QSKJ_fake_script() -- Frame.Dragify
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(QSKJ_fake_script)()
-local function MKRBA_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(EDBVO_fake_script)()
+local function MIZAF_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local frame = script.Parent.Parent -- Rimpiazza "script.Parent" con il percorso del tuo frame
@@ -3969,8 +3969,8 @@ local function MKRBA_fake_script() -- TextButton_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(MKRBA_fake_script)()
-local function PCGJY_fake_script() -- CmdPanel.LocalScript 
+coroutine.wrap(MIZAF_fake_script)()
+local function HCQWFV_fake_script() -- CmdPanel.LocalScript 
 	local script = Instance.new('LocalScript', CmdPanel)
 
 	-- Metti questo script all'interno di un LocalScript all'interno del tuo ScreenGui
@@ -3995,4 +3995,4 @@ local function PCGJY_fake_script() -- CmdPanel.LocalScript
 	end)
 	
 end
-coroutine.wrap(PCGJY_fake_script)()
+coroutine.wrap(HCQWFV_fake_script)()
