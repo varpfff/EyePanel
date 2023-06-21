@@ -4,8 +4,7 @@ warn("--------------------------------------------------------------------------
 warn("Welcome to Eye Panel! If you have problem, join our Discord! It's a beta rn")
 warn("---------------------------------------------------------------------------")
 
-
-
+-- MADE BY VARP
 
 -- Gui to Lua
 -- Version: 3.2
@@ -137,6 +136,7 @@ ScrollingFrame.BorderColor3 = Color3.fromRGB(33, 33, 33)
 ScrollingFrame.BorderSizePixel = 0
 ScrollingFrame.Position = UDim2.new(0.00546830706, 0, 0.191229895, 0)
 ScrollingFrame.Size = UDim2.new(0, 246, 0, 211)
+ScrollingFrame.CanvasPosition = Vector2.new(0, 750)
 ScrollingFrame.CanvasSize = UDim2.new(0, 0, 60, 0)
 ScrollingFrame.ScrollBarThickness = 4
 
@@ -795,7 +795,7 @@ TextLabel.TextSize = 14.000
 
 -- Scripts:
 
-local function SZEJIFX_fake_script() -- TextBox.AutoText 
+local function QZQZ_fake_script() -- TextBox.AutoText 
 	local script = Instance.new('LocalScript', TextBox)
 
 	local TextBox = script.Parent
@@ -858,8 +858,8 @@ local function SZEJIFX_fake_script() -- TextBox.AutoText
 	end
 	
 end
-coroutine.wrap(SZEJIFX_fake_script)()
-local function KVQN_fake_script() -- Discord.LocalScript 
+coroutine.wrap(QZQZ_fake_script)()
+local function AARVUTY_fake_script() -- Discord.LocalScript 
 	local script = Instance.new('LocalScript', Discord)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -885,8 +885,8 @@ local function KVQN_fake_script() -- Discord.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(KVQN_fake_script)()
-local function MXLI_fake_script() -- Discord_2.LocalScript 
+coroutine.wrap(AARVUTY_fake_script)()
+local function BIDWBA_fake_script() -- Discord_2.LocalScript 
 	local script = Instance.new('LocalScript', Discord_2)
 
 	local fps = 0
@@ -904,8 +904,8 @@ local function MXLI_fake_script() -- Discord_2.LocalScript
 	end
 	
 end
-coroutine.wrap(MXLI_fake_script)()
-local function XKJI_fake_script() -- Discord_3.LocalScript 
+coroutine.wrap(BIDWBA_fake_script)()
+local function PSGIO_fake_script() -- Discord_3.LocalScript 
 	local script = Instance.new('LocalScript', Discord_3)
 
 	local button = script.Parent
@@ -922,8 +922,8 @@ local function XKJI_fake_script() -- Discord_3.LocalScript
 	
 	
 end
-coroutine.wrap(XKJI_fake_script)()
-local function MLDR_fake_script() -- Discord_5.LocalScript 
+coroutine.wrap(PSGIO_fake_script)()
+local function AYKJEI_fake_script() -- Discord_5.LocalScript 
 	local script = Instance.new('LocalScript', Discord_5)
 
 	local TextButton = script.Parent
@@ -988,8 +988,8 @@ local function MLDR_fake_script() -- Discord_5.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(MLDR_fake_script)()
-local function VXYB_fake_script() -- Discord_6.LocalScript 
+coroutine.wrap(AYKJEI_fake_script)()
+local function ZKQBPDN_fake_script() -- Discord_6.LocalScript 
 	local script = Instance.new('LocalScript', Discord_6)
 
 	local TextButton = script.Parent
@@ -1065,8 +1065,8 @@ local function VXYB_fake_script() -- Discord_6.LocalScript
 	
 	
 end
-coroutine.wrap(VXYB_fake_script)()
-local function DKCCTE_fake_script() -- Discord_7.LocalScript 
+coroutine.wrap(ZKQBPDN_fake_script)()
+local function PQEPG_fake_script() -- Discord_7.LocalScript 
 	local script = Instance.new('LocalScript', Discord_7)
 
 	local TextButton = script.Parent
@@ -1157,8 +1157,8 @@ local function DKCCTE_fake_script() -- Discord_7.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(DKCCTE_fake_script)()
-local function BGPIJR_fake_script() -- Discord_8.LocalScript 
+coroutine.wrap(PQEPG_fake_script)()
+local function ESLWC_fake_script() -- Discord_8.LocalScript 
 	local script = Instance.new('LocalScript', Discord_8)
 
 	local TextButton = script.Parent
@@ -1241,8 +1241,8 @@ local function BGPIJR_fake_script() -- Discord_8.LocalScript
 	
 	
 end
-coroutine.wrap(BGPIJR_fake_script)()
-local function MHECRWS_fake_script() -- Discord_9.LocalScript 
+coroutine.wrap(ESLWC_fake_script)()
+local function OYFIHBM_fake_script() -- Discord_9.LocalScript 
 	local script = Instance.new('LocalScript', Discord_9)
 
 	local TextButton = script.Parent
@@ -1331,8 +1331,8 @@ local function MHECRWS_fake_script() -- Discord_9.LocalScript
 	
 	
 end
-coroutine.wrap(MHECRWS_fake_script)()
-local function WGYD_fake_script() -- Discord_10.LocalScript 
+coroutine.wrap(OYFIHBM_fake_script)()
+local function MHFKPYW_fake_script() -- Discord_10.LocalScript 
 	local script = Instance.new('LocalScript', Discord_10)
 
 	local TextButton = script.Parent
@@ -1442,8 +1442,8 @@ local function WGYD_fake_script() -- Discord_10.LocalScript
 	
 	
 end
-coroutine.wrap(WGYD_fake_script)()
-local function UGNNL_fake_script() -- Discord_11.LocalScript 
+coroutine.wrap(MHFKPYW_fake_script)()
+local function CGXO_fake_script() -- Discord_11.LocalScript 
 	local script = Instance.new('LocalScript', Discord_11)
 
 	local TextButton = script.Parent
@@ -1528,8 +1528,8 @@ local function UGNNL_fake_script() -- Discord_11.LocalScript
 	
 	
 end
-coroutine.wrap(UGNNL_fake_script)()
-local function IJPYF_fake_script() -- Discord_12.LocalScript 
+coroutine.wrap(CGXO_fake_script)()
+local function OKXA_fake_script() -- Discord_12.LocalScript 
 	local script = Instance.new('LocalScript', Discord_12)
 
 	local TextButton = script.Parent
@@ -1614,8 +1614,8 @@ local function IJPYF_fake_script() -- Discord_12.LocalScript
 	
 	
 end
-coroutine.wrap(IJPYF_fake_script)()
-local function VAXIPHC_fake_script() -- Discord_13.LocalScript 
+coroutine.wrap(OKXA_fake_script)()
+local function ODPVGH_fake_script() -- Discord_13.LocalScript 
 	local script = Instance.new('LocalScript', Discord_13)
 
 	local TextButton = script.Parent
@@ -1875,8 +1875,8 @@ local function VAXIPHC_fake_script() -- Discord_13.LocalScript
 	
 	
 end
-coroutine.wrap(VAXIPHC_fake_script)()
-local function DNTUJSP_fake_script() -- Discord_14.LocalScript 
+coroutine.wrap(ODPVGH_fake_script)()
+local function JTAM_fake_script() -- Discord_14.LocalScript 
 	local script = Instance.new('LocalScript', Discord_14)
 
 	
@@ -1918,8 +1918,8 @@ local function DNTUJSP_fake_script() -- Discord_14.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(DNTUJSP_fake_script)()
-local function PUBN_fake_script() -- Discord_16.LocalScript 
+coroutine.wrap(JTAM_fake_script)()
+local function TKYTCGF_fake_script() -- Discord_16.LocalScript 
 	local script = Instance.new('LocalScript', Discord_16)
 
 	local TextButton = script.Parent
@@ -1998,8 +1998,8 @@ local function PUBN_fake_script() -- Discord_16.LocalScript
 	
 	
 end
-coroutine.wrap(PUBN_fake_script)()
-local function DCYOBA_fake_script() -- Discord_17.LocalScript 
+coroutine.wrap(TKYTCGF_fake_script)()
+local function ZQVJGYL_fake_script() -- Discord_17.LocalScript 
 	local script = Instance.new('LocalScript', Discord_17)
 
 	local TextButton = script.Parent
@@ -2017,8 +2017,8 @@ local function DCYOBA_fake_script() -- Discord_17.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(DCYOBA_fake_script)()
-local function XLECUJ_fake_script() -- Discord_18.LocalScript 
+coroutine.wrap(ZQVJGYL_fake_script)()
+local function PNKHE_fake_script() -- Discord_18.LocalScript 
 	local script = Instance.new('LocalScript', Discord_18)
 
 	
@@ -2051,8 +2051,8 @@ local function XLECUJ_fake_script() -- Discord_18.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(XLECUJ_fake_script)()
-local function VEUYYS_fake_script() -- Discord_19.LocalScript 
+coroutine.wrap(PNKHE_fake_script)()
+local function KFCLC_fake_script() -- Discord_19.LocalScript 
 	local script = Instance.new('LocalScript', Discord_19)
 
 	
@@ -2086,8 +2086,8 @@ local function VEUYYS_fake_script() -- Discord_19.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(VEUYYS_fake_script)()
-local function DJKOP_fake_script() -- Discord_21.LocalScript 
+coroutine.wrap(KFCLC_fake_script)()
+local function MTZLJ_fake_script() -- Discord_21.LocalScript 
 	local script = Instance.new('LocalScript', Discord_21)
 
 	local TextButton = script.Parent
@@ -2222,8 +2222,8 @@ local function DJKOP_fake_script() -- Discord_21.LocalScript
 	
 	
 end
-coroutine.wrap(DJKOP_fake_script)()
-local function RINTK_fake_script() -- Discord_22.LocalScript 
+coroutine.wrap(MTZLJ_fake_script)()
+local function PUGF_fake_script() -- Discord_22.LocalScript 
 	local script = Instance.new('LocalScript', Discord_22)
 
 	local TextButton = script.Parent
@@ -2330,8 +2330,8 @@ local function RINTK_fake_script() -- Discord_22.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(RINTK_fake_script)()
-local function FZLLOAO_fake_script() -- Discord_23.LocalScript 
+coroutine.wrap(PUGF_fake_script)()
+local function FKZX_fake_script() -- Discord_23.LocalScript 
 	local script = Instance.new('LocalScript', Discord_23)
 
 	local TextButton = script.Parent
@@ -2403,8 +2403,8 @@ local function FZLLOAO_fake_script() -- Discord_23.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(FZLLOAO_fake_script)()
-local function OTKOGY_fake_script() -- Discord_24.LocalScript 
+coroutine.wrap(FKZX_fake_script)()
+local function MVZK_fake_script() -- Discord_24.LocalScript 
 	local script = Instance.new('LocalScript', Discord_24)
 
 	local TextButton = script.Parent
@@ -2533,8 +2533,8 @@ local function OTKOGY_fake_script() -- Discord_24.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(OTKOGY_fake_script)()
-local function PTWVCI_fake_script() -- TextBox_2.LocalScript 
+coroutine.wrap(MVZK_fake_script)()
+local function RYKVQTJ_fake_script() -- TextBox_2.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_2)
 
 	local colorTextBox = script.Parent -- Assumendo che lo script sia collegato direttamente alla TextBox del colore
@@ -2611,8 +2611,8 @@ local function PTWVCI_fake_script() -- TextBox_2.LocalScript
 	colorTextBox:GetPropertyChangedSignal("Text"):Connect(setColorFromTextBox)
 	
 end
-coroutine.wrap(PTWVCI_fake_script)()
-local function WAJBSKE_fake_script() -- TextBox_3.LocalScript 
+coroutine.wrap(RYKVQTJ_fake_script)()
+local function RNXUUO_fake_script() -- TextBox_3.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_3)
 
 	local player = game.Players.LocalPlayer
@@ -2647,35 +2647,215 @@ local function WAJBSKE_fake_script() -- TextBox_3.LocalScript
 	
 	
 end
-coroutine.wrap(WAJBSKE_fake_script)()
-local function TEANN_fake_script() -- Discord_25.LocalScript 
+coroutine.wrap(RNXUUO_fake_script)()
+local function XMODB_fake_script() -- Discord_25.LocalScript 
 	local script = Instance.new('LocalScript', Discord_25)
 
-	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
+	local TextButton = script.Parent
 	
-	local function showMessage()
-		TextButton.Text = "Successfully copied to clipboard"
-		wait(2)
-		TextButton.Text = "Discord"
+	local isTextBlack = true
+	
+	local function toggleTextColor()
+		isTextBlack = not isTextBlack
+		if isTextBlack then
+			TextButton.TextColor3 = Color3.new(1, 1, 1)  -- Set text color to black
+		else
+			TextButton.TextColor3 = Color3.new(0, 0, 0)  -- Set text color to white
+		end
 	end
 	
-	TextButton.MouseButton1Click:Connect(showMessage)
+	TextButton.MouseButton1Click:Connect(toggleTextColor)
 	
 	
 	
-	local function executeScript()
-		--Script
-	
-		setclipboard("https://dsc.gg/eyepanel")
 	
 	
-		--script
+	local textButton = script.Parent -- Riferimento al TextButton da trasformare in toggle
+	local firstScript = function()
+		-- Inserisci qui il primo script da eseguire quando il pulsante viene attivato
+		-- Get the current camera
+		-- Nome dello ScreenGui da eliminare
+		local screenGuiName = "Fps" -- Sostituisci "NomeScreenGui" con il nome effettivo dello ScreenGui che desideri eliminare
+	
+		-- Funzione per eliminare uno ScreenGui utilizzando il suo nome
+		local function removeScreenGuiByName(name)
+			local playerGui = game.Players.LocalPlayer.PlayerGui
+	
+			-- Cerca lo ScreenGui con il nome specificato all'interno di PlayerGui
+			local screenGui = playerGui:FindFirstChild(name)
+			if screenGui and screenGui:IsA("ScreenGui") then
+				screenGui:Destroy()
+				print("")
+			else
+				print("")
+			end
+		end
+	
+		-- Chiamata alla funzione per eliminare lo ScreenGui specificato
+		removeScreenGuiByName(screenGuiName)
+	
+	
+	
+	
+	end
+	local secondScript = function()
+	
+		-- Gui to Lua
+		-- Version: 3.2
+	
+		-- Instances:
+	
+		local Fps = Instance.new("ScreenGui")
+		local Frame = Instance.new("Frame")
+		local TextLabel = Instance.new("TextLabel")
+	
+		--Properties:
+	
+		Fps.Name = "Fps"
+		Fps.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+		Fps.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+		Frame.Parent = Fps
+		Frame.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+		Frame.BackgroundTransparency = 0.700
+		Frame.Position = UDim2.new(0.0852407292, 0, 0.896296322, 0)
+		Frame.Size = UDim2.new(0, 58, 0, 24)
+	
+		TextLabel.Parent = Frame
+		TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		TextLabel.BackgroundTransparency = 1.000
+		TextLabel.Size = UDim2.new(0, 56, 0, 24)
+		TextLabel.Font = Enum.Font.SourceSansBold
+		TextLabel.Text = "FPS:"
+		TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+		TextLabel.TextScaled = true
+		TextLabel.TextSize = 14.000
+		TextLabel.TextWrapped = true
+	
+		-- Scripts:
+	
+		local function XSLKTX_fake_script() -- TextLabel.LocalScript 
+			local script = Instance.new('LocalScript', TextLabel)
+	
+			local textLabel = script.Parent -- Assumi che lo script sia nel TextLabel
+			local lastUpdate = tick()
+	
+			local function updateText()
+				local currentTime = tick()
+				local deltaTime = currentTime - lastUpdate
+				local fps = math.floor(1 / deltaTime)
+				textLabel.Text = "FPS: " .. tostring(fps)
+				lastUpdate = currentTime
+	
+				wait(1)
+	
+			end
+	
+			-- Aggiorna il testo ogni frame
+			game:GetService("RunService").Heartbeat:Connect(updateText)
+	
+		end
+		coroutine.wrap(XSLKTX_fake_script)()
+		local function AUMZ_fake_script() -- Frame.Dragify 
+			local script = Instance.new('LocalScript', Frame)
+	
+			local UserInputService = game:GetService("UserInputService")
+	
+			local dragToggle
+			local dragInput
+			local dragSpeed
+			local dragStart
+			local dragPos
+			local startPos
+	
+			function dragify(Frame)
+				dragToggle = nil
+				dragSpeed = 0.50
+				dragInput = nil
+				dragStart = nil
+				dragPos = nil
+				local function updateInput(input)
+					local Delta = input.Position - dragStart
+					local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+					game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.30), {Position = Position}):Play()
+				end
+				Frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UserInputService:GetFocusedTextBox() == nil then
+						dragToggle = true
+						dragStart = input.Position
+						startPos = Frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+				Frame.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						dragInput = input
+					end
+				end)
+				game:GetService("UserInputService").InputChanged:Connect(function(input)
+					if input == dragInput and dragToggle then
+						updateInput(input)
+					end
+				end)
+			end
+	
+			dragify(script.Parent)
+		end
+		coroutine.wrap(AUMZ_fake_script)()
+		local function LBRH_fake_script() -- Fps.LocalScript 
+			local script = Instance.new('LocalScript', Fps)
+	
+			-- Metti questo script all'interno di un LocalScript all'interno del tuo ScreenGui
+	
+			local player = game.Players.LocalPlayer
+			local screenGui = script.Parent
+	
+			-- Imposta ResetOnSpawn su false per evitare che la UI venga ripristinata quando il personaggio respawn
+			screenGui.ResetOnSpawn = false
+	
+			local function showUI()
+				screenGui.Parent = player.PlayerGui -- Assicurati che il parent della UI sia PlayerGui per mantenerla visibile dopo la morte
+			end
+	
+			local function hideUI()
+				screenGui.Parent = nil -- Rimuovi il parent della UI per nasconderla quando il personaggio muore
+			end
+	
+			player.CharacterAdded:Connect(function(character)
+				local humanoid = character:WaitForChild("Humanoid")
+				humanoid.Died:Connect(showUI)
+			end)
+	
+		end
+		coroutine.wrap(LBRH_fake_script)()
+	
+	
 	end
 	
-	TextButton.MouseButton1Click:Connect(executeScript)
+	local isActive = false -- Stato attivo o non attivo del toggle
+	
+	local function onButtonActivated()
+		isActive = not isActive -- Inverte lo stato del toggle
+	
+		if isActive then
+			-- Il pulsante è stato attivato
+			secondScript()
+		else
+			-- Il pulsante è stato disattivato
+			firstScript()
+		end
+	end
+	
+	-- Aggiunge un gestore di eventi per il clic sul pulsante
+	textButton.MouseButton1Click:Connect(onButtonActivated)
+	
 end
-coroutine.wrap(TEANN_fake_script)()
-local function XHXOKV_fake_script() -- Discord_27.LocalScript 
+coroutine.wrap(XMODB_fake_script)()
+local function DTPQLU_fake_script() -- Discord_27.LocalScript 
 	local script = Instance.new('LocalScript', Discord_27)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2718,8 +2898,8 @@ local function XHXOKV_fake_script() -- Discord_27.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(XHXOKV_fake_script)()
-local function OQBCH_fake_script() -- Discord_28.LocalScript 
+coroutine.wrap(DTPQLU_fake_script)()
+local function CMVA_fake_script() -- Discord_28.LocalScript 
 	local script = Instance.new('LocalScript', Discord_28)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2748,8 +2928,8 @@ local function OQBCH_fake_script() -- Discord_28.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(OQBCH_fake_script)()
-local function YXMKW_fake_script() -- Discord_29.LocalScript 
+coroutine.wrap(CMVA_fake_script)()
+local function CPZAXSI_fake_script() -- Discord_29.LocalScript 
 	local script = Instance.new('LocalScript', Discord_29)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -2792,8 +2972,8 @@ local function YXMKW_fake_script() -- Discord_29.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(YXMKW_fake_script)()
-local function YXLGIX_fake_script() -- Discord_30.LocalScript 
+coroutine.wrap(CPZAXSI_fake_script)()
+local function VRNFD_fake_script() -- Discord_30.LocalScript 
 	local script = Instance.new('LocalScript', Discord_30)
 
 	local TextButton = script.Parent
@@ -2888,8 +3068,8 @@ local function YXLGIX_fake_script() -- Discord_30.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(YXLGIX_fake_script)()
-local function AUFRDKJ_fake_script() -- Discord_31.LocalScript 
+coroutine.wrap(VRNFD_fake_script)()
+local function BBGR_fake_script() -- Discord_31.LocalScript 
 	local script = Instance.new('LocalScript', Discord_31)
 
 	local TextButton = script.Parent
@@ -3001,8 +3181,8 @@ local function AUFRDKJ_fake_script() -- Discord_31.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(AUFRDKJ_fake_script)()
-local function KTZI_fake_script() -- Discord_32.LocalScript 
+coroutine.wrap(BBGR_fake_script)()
+local function TATHCND_fake_script() -- Discord_32.LocalScript 
 	local script = Instance.new('LocalScript', Discord_32)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3036,8 +3216,8 @@ local function KTZI_fake_script() -- Discord_32.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(KTZI_fake_script)()
-local function HBIXOO_fake_script() -- Discord_34.LocalScript 
+coroutine.wrap(TATHCND_fake_script)()
+local function GGJX_fake_script() -- Discord_34.LocalScript 
 	local script = Instance.new('LocalScript', Discord_34)
 
 	local TextButton = script.Parent
@@ -3062,12 +3242,74 @@ local function HBIXOO_fake_script() -- Discord_34.LocalScript
 	local textButton = script.Parent -- Riferimento al TextButton da trasformare in toggle
 	local firstScript = function()
 		
+		local Players = game:GetService("Players")
+	
+		local function disablePlayerNames()
+			for _, player in ipairs(Players:GetPlayers()) do
+				local nameTag = player.Character:FindFirstChild("Head"):FindFirstChild("NameTag")
+				if nameTag then
+					nameTag:Destroy()
+				end
+			end
+		end
+	
+		game.Players.PlayerAdded:Connect(function(player)
+			player.CharacterAdded:Connect(function(character)
+				character.ChildAdded:Connect(function(child)
+					if child.Name == "Head" then
+						local nameTag = child:FindFirstChild("NameTag")
+						if nameTag then
+							nameTag:Destroy()
+						end
+					end
+				end)
+			end)
+		end)
+	
+		Players.PlayerRemoving:Connect(function(player)
+			local character = player.Character
+			if character then
+				local nameTag = character:FindFirstChild("Head"):FindFirstChild("NameTag")
+				if nameTag then
+					nameTag:Destroy()
+				end
+			end
+		end)
+	
+		disablePlayerNames()
+	
 	
 	
 	
 	end
 	local secondScript = function()
 	
+	
+		local Players = game:GetService("Players")
+	
+		local function showPlayerNames()
+			for _, player in ipairs(Players:GetPlayers()) do
+				local nameTag = Instance.new("BillboardGui")
+				nameTag.Name = "NameTag"
+				nameTag.Adornee = player.Character:FindFirstChild("Head")
+				nameTag.AlwaysOnTop = true
+				nameTag.ExtentsOffset = Vector3.new(0, 2, 0)
+				nameTag.Size = UDim2.new(0, 100, 0, 20)
+	
+				local nameLabel = Instance.new("TextLabel")
+				nameLabel.Name = "NameLabel"
+				nameLabel.BackgroundTransparency = 1
+				nameLabel.Size = UDim2.new(1, 0, 1, 0)
+				nameLabel.Text = player.Name
+				nameLabel.TextColor3 = Color3.new(1, 1, 1)
+				nameLabel.TextScaled = true
+				nameLabel.Parent = nameTag
+	
+				nameTag.Parent = player.Character:FindFirstChild("Head")
+			end
+		end
+	
+		showPlayerNames()
 	
 	
 	end
@@ -3090,8 +3332,8 @@ local function HBIXOO_fake_script() -- Discord_34.LocalScript
 	textButton.MouseButton1Click:Connect(onButtonActivated)
 	
 end
-coroutine.wrap(HBIXOO_fake_script)()
-local function KPTGWUU_fake_script() -- Discord_36.LocalScript 
+coroutine.wrap(GGJX_fake_script)()
+local function HNGLNG_fake_script() -- Discord_36.LocalScript 
 	local script = Instance.new('LocalScript', Discord_36)
 
 	local TextButton = script.Parent 
@@ -3133,8 +3375,8 @@ local function KPTGWUU_fake_script() -- Discord_36.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(KPTGWUU_fake_script)()
-local function QJYTPCK_fake_script() -- Discord_37.LocalScript 
+coroutine.wrap(HNGLNG_fake_script)()
+local function CNRF_fake_script() -- Discord_37.LocalScript 
 	local script = Instance.new('LocalScript', Discord_37)
 
 	local TextButton = script.Parent 
@@ -3185,8 +3427,8 @@ local function QJYTPCK_fake_script() -- Discord_37.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(QJYTPCK_fake_script)()
-local function YRQEINW_fake_script() -- Discord_38.LocalScript 
+coroutine.wrap(CNRF_fake_script)()
+local function DWJHV_fake_script() -- Discord_38.LocalScript 
 	local script = Instance.new('LocalScript', Discord_38)
 
 	local TextButton = script.Parent 
@@ -3237,8 +3479,8 @@ local function YRQEINW_fake_script() -- Discord_38.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(YRQEINW_fake_script)()
-local function VRILWU_fake_script() -- FlingPLR.LocalScript 
+coroutine.wrap(DWJHV_fake_script)()
+local function BQBBBFE_fake_script() -- FlingPLR.LocalScript 
 	local script = Instance.new('LocalScript', FlingPLR)
 
 	
@@ -3266,8 +3508,8 @@ local function VRILWU_fake_script() -- FlingPLR.LocalScript
 	
 	
 end
-coroutine.wrap(VRILWU_fake_script)()
-local function BYCD_fake_script() -- FLing2.LocalScript 
+coroutine.wrap(BQBBBFE_fake_script)()
+local function DVZWDL_fake_script() -- FLing2.LocalScript 
 	local script = Instance.new('LocalScript', FLing2)
 
 	local TextButton = script.Parent
@@ -3378,8 +3620,8 @@ local function BYCD_fake_script() -- FLing2.LocalScript
 	
 	
 end
-coroutine.wrap(BYCD_fake_script)()
-local function VCER_fake_script() -- FLing2_2.LocalScript 
+coroutine.wrap(DVZWDL_fake_script)()
+local function QHDUB_fake_script() -- FLing2_2.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_2)
 
 	local textBox = script.Parent.Parent:FindFirstChild("FlingPLR") -- Sostituisci "YourTextBox" con il nome effettivo della tua TextBox
@@ -3435,8 +3677,8 @@ local function VCER_fake_script() -- FLing2_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(VCER_fake_script)()
-local function AOAT_fake_script() -- FLing2_3.LocalScript 
+coroutine.wrap(QHDUB_fake_script)()
+local function PSKTTL_fake_script() -- FLing2_3.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_3)
 
 	local speaker = game.Players.LocalPlayer
@@ -3479,8 +3721,8 @@ local function AOAT_fake_script() -- FLing2_3.LocalScript
 	end)
 	
 end
-coroutine.wrap(AOAT_fake_script)()
-local function ZFSF_fake_script() -- FLing2_5.LocalScript 
+coroutine.wrap(PSKTTL_fake_script)()
+local function GYMZ_fake_script() -- FLing2_5.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_5)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3542,8 +3784,8 @@ local function ZFSF_fake_script() -- FLing2_5.LocalScript
 	
 	TextButton.MouseButton1Click:Connect(executeScript)
 end
-coroutine.wrap(ZFSF_fake_script)()
-local function AGTNVR_fake_script() -- FLing2_6.LocalScript 
+coroutine.wrap(GYMZ_fake_script)()
+local function AIZIIWA_fake_script() -- FLing2_6.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_6)
 
 	local TextButton = script.Parent -- Assumi che lo script sia nel TextButton
@@ -3573,8 +3815,8 @@ local function AGTNVR_fake_script() -- FLing2_6.LocalScript
 	
 	
 end
-coroutine.wrap(AGTNVR_fake_script)()
-local function IYYUSTU_fake_script() -- FLing2_8.LocalScript 
+coroutine.wrap(AIZIIWA_fake_script)()
+local function XAPSDGY_fake_script() -- FLing2_8.LocalScript 
 	local script = Instance.new('LocalScript', FLing2_8)
 
 	
@@ -3631,8 +3873,8 @@ local function IYYUSTU_fake_script() -- FLing2_8.LocalScript
 	
 	
 end
-coroutine.wrap(IYYUSTU_fake_script)()
-local function KORU_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(XAPSDGY_fake_script)()
+local function UZZY_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local Button = script.Parent
@@ -3648,8 +3890,8 @@ local function KORU_fake_script() -- TextButton.LocalScript
 	Button.Activated:Connect(ToggleVisibility)
 	
 end
-coroutine.wrap(KORU_fake_script)()
-local function OOJN_fake_script() -- Frame.Dragify 
+coroutine.wrap(UZZY_fake_script)()
+local function QSKJ_fake_script() -- Frame.Dragify 
 	local script = Instance.new('LocalScript', Frame)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -3698,8 +3940,8 @@ local function OOJN_fake_script() -- Frame.Dragify
 	
 	dragify(script.Parent)
 end
-coroutine.wrap(OOJN_fake_script)()
-local function RBVZEGL_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(QSKJ_fake_script)()
+local function MKRBA_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local frame = script.Parent.Parent -- Rimpiazza "script.Parent" con il percorso del tuo frame
@@ -3727,8 +3969,8 @@ local function RBVZEGL_fake_script() -- TextButton_2.LocalScript
 	end)
 	
 end
-coroutine.wrap(RBVZEGL_fake_script)()
-local function ADQC_fake_script() -- CmdPanel.LocalScript 
+coroutine.wrap(MKRBA_fake_script)()
+local function PCGJY_fake_script() -- CmdPanel.LocalScript 
 	local script = Instance.new('LocalScript', CmdPanel)
 
 	-- Metti questo script all'interno di un LocalScript all'interno del tuo ScreenGui
@@ -3753,4 +3995,4 @@ local function ADQC_fake_script() -- CmdPanel.LocalScript
 	end)
 	
 end
-coroutine.wrap(ADQC_fake_script)()
+coroutine.wrap(PCGJY_fake_script)()
