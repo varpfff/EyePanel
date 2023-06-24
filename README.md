@@ -1,2 +1,2 @@
 # EyePanel
-i have no enemis1!!11!11
+This is a script for roblox https://dsc.gg/eyepanel
